@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Movie 1",
+        "img": "/assets/images/inception.jpeg",
+        "rating": [ 5, 4, 5, 3 ]
+    },
+    {
+        "id": 2,
+        "name": "Movie 2",
+        "img": "/assets/images/movie-poster.png",
+        "rating": [ 3, 4, 4 ]
+    }
+]
